@@ -1,0 +1,132 @@
+Security Software Design focuses on the various elements needed to address and implement
+secure software acquisition and development through the software development life cycle (SDLC).
+The course addresses people, technology, tools, and processes to design and develop
+consistently secure applications from start to finish. Additionally, it underscores the importance
+and value of the Defense-in-depth principle across the entire SDLC. The course also introduces
+techniques to adapt common security activities to modern software development practices such
+as Agile and DevSecOps.
+
+
+Learning Objectives:
+
+Examines Security Methods within SDLC
+● Assesses Software Requirements and Risks
+● Evaluates the Software Security Test Plan
+● Evaluate the Effectiveness of Software Testing
+
+Readings Requirement:
+READ D487 FAQs in Course Announcements. Read the D487 Guidance Document. It
+explains how to use the Study Aids included in this syllabus.
+Begin Section 1: Software Security and SDLC
+Lesson 1: Software Security
+READ Chapter 1, “Introduction”, from Practical Core Software Security.
+WATCH Video: Software and Systems Security for CompTIA CySA+ (2h 23m)
+COMPLETE Lesson 1 Knowledge Check in the Study Plan.
+
+
+Lesson 2: Software Security Challenges and Guidelines
+READ Chapter 2, “The Security Development Lifecycle”, from Practical Core Software
+Security
+WATCH video: Shift Left, Shift Right: The DevSecOps Hokey Pokey (30 min 36 sec)
+COMPLETE Lesson 2 Knowledge check in the Study Plan.
+WATCH the pre-recorded first cohort: Main Issues:
+https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cfe2fa25-9c8f4fbf86e5-b0cf01831f94
+
+
+Lesson 3: Secure Software Development Approaches
+WATCH Agile Fundamentals (2h 40m)
+WATCH Learning the Truth about Agile vs. Waterfall (1h 5m)
+COMPLETE Lesson 3 Knowledge Check in the study plan. COMPLETE
+Section 1 Quiz in the study plan.
+End Section 1: Software Security and SDLC
+
+
+
+Begin Section 2: Software Requirements and Risks
+
+Lesson 4: Security Assessment Planning
+READ Chapter 3, “Security Assessment (A1): SDL Activities and Best Practices, from
+Practical Core Software Security.
+WATCH the section “Discovering Secure Software Requirements” (30m 53s) from Secure
+Software Requirements for CSSLP.
+COMPLETE Lesson 4 Knowledge Check in the Study Plan. 
+
+Lesson 5: Architecture Security Analysis
+READ Chapter 4 “Architecture (A2): SDL Activities and Best Practices from Practical Core
+Software Security.
+WATCH video: Threat Modeling Fundamentals (1h 29m)
+WATCH the section “Finding Threats Using STRIDE” from Performing Threat Modeling
+with the Microsoft Threats Modeling Methodology (19m 38s)
+Identify organizational policies to
+comply with when designing
+software solutions.
+Identify actions taken during each
+step in threat modeling for the
+analysis of architecture security.
+Week Theme/Topic Learning Outcomes
+WATCH video: Perform Threat Modeling with PASTA Methodology (1h 4m)
+WATCH the pre-recorded 2nd cohort: Module 2 – Software Requirements:
+https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e21d90d7-
+e5044cca-b113-b0d00109718a
+COMPLETE Lesson 5 Knowledge Check
+COMPLETE Section 2 quiz in the Study Plan.
+END Section 2: Software Requirements and Risks. 
+
+
+Begin Section 3: Software Security Test Plan
+
+Lesson 6: Security Test Planning
+READ Chapter 5 “Design and Development (A3): SDL Activities and Best Practices” from
+Practical Core Software Security: A Reference Framework.
+WATCH video: Security Software Considerations (44m 31s) from Secure Software
+Architecture and Design for CSSLP.
+Watch video: “Develop Security Test Cases” (58m 2s) (Please note: You will watch the
+rest of this video later in this section.
+
+Lesson 7: Security Test Case Execution
+READ Chapter 6 “Design and Development (A4): SDL Activities and Best Practices” from
+Practical Core Software Security: A Reference Framework.
+WATCH video: Modern Dynamic Application Security Testing (13m 0s)
+WATCH video: Code Review: Best Practices (1h 22m) 
+WATCH the sections “Course Overview” (1h 27m), “Developing and Acquiring Test Data
+(31m 55s), and “Executing the Test Plan” (23m 1s) from Secure Software Testing for
+CSSLP.
+WATCH video: Writing Custom Scripts for OWASP Zed Attack Proxy (2h 55m) Watch
+video: Application Analysis with SonarQube (24m 0s)
+Take Section 3 Quiz in Study Plan.
+End Section 3: Software Security Test Plan 
+
+
+Begin Section 4: Software Testing
+Lesson 8: Determining Product Readiness
+READ Chapter 7 “Ship (A5): SDL Activities and Best Practices” from Practical Core
+Software Security: A Reference Framework.
+WATCH Conducting Network Vulnerability Analysis (2h 28m)
+COMPLETE lab: Assessing the impact of Web Application and Vulnerabilities from
+Infosec Learning.
+COMPLETE Lab: Analyzing Output from Web Application Assessment from InfoSec
+Learning.
+COMPLETE Lesson 8 Knowledge Check.
+
+Lesson 9: Post-Release Security Issues
+
+READ Chapter 8 “Post-Release Support (PRSA 1-5) from Practical Core Software
+Security: A Reference Framework. 
+WATCH the pre-recorded 3rd cohort: Module 3 – Post-Incident Response:
+https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ba3f2e02-
+aace40f6-9f37-b0d0014295c0
+COMPLETE Lesson 9 Knowledge Check. 
+
+
+Lesson 10: Adapting to Security Frameworks and Models
+READ Chapter 9 “Adapting Our Reference Framework to Your Environment” from
+Practical Core Software Security: A Reference Framework.
+COMPLETE Lesson 10 Knowledge Check.
+COMPLETE the Section 4 Quiz in the study plan.
+TAKE the 60-question Pre-Assessment. Review your results.
+(NOTE: For a student new to Secure Software Development, taking the Pre-Assessment
+in Week 6 is a good practice. For a student with considerable experience in the field,
+taking it earlier can act as a gauge of pre-knowledge. The Pre-Assessment can be
+repeated later to gauge your learning. Keep in mind that the questions repeat.)
+TAKE AND PASS the D487 Objective Assessment.
+GREAT JOB! That completes D487 – Secure Software Development. 
